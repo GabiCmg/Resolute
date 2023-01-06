@@ -1,12 +1,20 @@
-# Resolute
-### Os melhores profissionais da galáxia 
-___
+<div align="center">
+<h1> { Hello World! } </h1>
 
-### O que é a Resolute 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF6F6F&lines=Seja+bem+vindo+a+Resolute!+...;Ideias+de+outro+mundo+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+</div>
 
-A Resolute é um trabalho de conclusão de curso, denominado como demoday, do instituto proa para o curso de desenvolvimento web Java.
 
-> Propostas 
+
+
+
+ <div>
+  <h2>Conheça o projeto 👨‍🚀 </h2>
+   <p>A Resolute é um Site tanto para empresa quanto para freelancers, aqui a sua empresa pode colocar diversos projetos que você deseja que seja realizado, e os freelancers vao se inscrever tanto sozinhos quanto em equipes para realizar esses projetos. Alem disso a nossa espacionave tambem pode hospedar vagas de emprego para funcionarios PCDs. Eai, e so criar a sua conta agora, bora embarcar nessa jornada ?</p>
+   
+   
+   > Propostas 
 
 A proposta do projeto é relacionar empresas e freelancers através do uso de uma plataforma online. É uma ponte entre as empresas que procuram aumentar sua produtividade, agilidade e qualidade de serviços prestados e trabalhadores autônomos que procuram uma oportunidade de oferecerem seus serviços.
 
@@ -15,12 +23,95 @@ Além de auxiliar empresas a acharem excelentes freelancers através de uma óti
 > Proposta Inclusiva
 
 Também temos como objetivo a inclusão de PCDs - Pessoas com Deficiências - no mercado de trabalho, através de uma divulgação de serviços, currículos e vagas, auxiliando na integração desses profissionais no meio tecnológico.
+ 
+ </div>
+ 
+ <div>
+    <img align="right" src="https://user-images.githubusercontent.com/104780954/167319666-5b9f60f0-e47c-4ab1-a2ea-299039e9c058.png" width="250px">
+ </div>
+ 
+   ##
+   
+ <div>
+  
+  
+   <div>
+     <h3>Missão 🌐</h3>
+     <p>Ser referência no crescimento de empresas concientes que necessitam de auxilio, sempre investindo nosso trabalho arduo para crescermos juntos a cada dia. </p>
+  </div>
+  
+  <div>
+    <h3> Visão 👁️‍🗨️ </h3>
+     <p>NOSSA CULTURA DE NEGÓCIOS: A nossa empresa ira acompanhar a sua a cada segundo, sempre lado a lado, por isso somos uma grande família, sempre se ajudando,            vamos capacitar a sua empresa a crescer ao mesmo tempo que auxiliamos pessoas que necessitam entrar no mercado de trabalho. Então vamos construir a nossa               historia lado    a lado . </p>
+  </div>
+  
+  <div>
+     <h3> Valores 👔</h3>
+     <p>Auxiliar nosso funcionarios, Levar ao mercado pessoas com deficiencia, promover a acessibilidade nas empresas, responsabilidade e organização no ambiente de        trabalho. </p>
+  </div>
+  
+  <div>
+    <h3> Nossa cultura de negócios 🤝</h3>
+    <p>A nossa empresa ira acompanhar a sua a cada segundo, sempre lado a lado, por isso somos uma grande família, sempre se ajudando, vamos capacitar a sua empresa a crescer ao mesmo tempo que auxiliamos pessoas que necessitam entrar no mercado de trabalho. Então vamos construir a nossa historia lado a lado . <p>
+  
+  </div>
+  
+  ##
+  
+  <div> 
+    <h3> Principais atendimento </h3>
+    <p> • Programação e TI 👨‍💻<p>
+    <p> • Design UI/UX 🎨<p>
+    <p> • Infraestrutura 🚀<p>
+    <p> • Marketing e Vendas 🔊<p>
+    <p> • Comunicação 🎤<p>
+  </div>
+ 
 
-- [@felps2003](https://github.com/felps2003)
-- [@GabiCmg](https://github.com/GabiCmg)
-- [@gabrielmiguell](https://github.com/gabrielmiguell)
-- [@Killuazin-lab](https://github.com/Killuazin-lab)
-- [@MacedoMLucca](https://github.com/MacedoMLucca)
-- [@MathesPacco](https://github.com/MatheusPacco)
-- [@pedro-costa22](https://github.com/pedro-costa22)
-- [@Veronica-gomes](https://github.com/Veronica-gomes)
+  <div>
+ <h2 align="center">ᴛᴇᴄɴᴏʟᴏɢɪᴀs 👨🏻‍💻  </h2>
+ <div align="center">
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   </span>
+   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   </span>
+   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   </span>
+   
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+   </span>
+  
+   <span>
+    <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   </span>
+    
+ </div>
+</div>
+  
+  ##
+  
+
+   ##
+   
+ <div>
+  
+
+  ![Frame 66 (3)](https://user-images.githubusercontent.com/104780954/174146749-1242e3c8-4f12-4354-a901-4198a9eca809.png)
